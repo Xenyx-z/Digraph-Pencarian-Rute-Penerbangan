@@ -295,7 +295,7 @@ Dijkstra    ✓ Found   3         5880 km           BPN → SUB → DPS → SYD
 
 **Problem:** File tidak ditemukan
 ```
-Solution: Pastikan routes.csv ada di directory yang sama
+Solution: File dataset airports.csv dan routes.csv ada di assets
 ```
 
 **Problem:** Input huruf di menu angka
@@ -308,5 +308,4 @@ Solution: Program otomatis retry dengan error message
 Solution: Gunakan kode IATA 3 huruf (CGK, SIN, DPS, dll)
 ```
 
-*Last Updated: December 17, 2025*
 *Version: 3.0 (Enhanced Edition)*
